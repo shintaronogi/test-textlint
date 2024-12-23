@@ -1,0 +1,10 @@
+id: 01JFSFG12MJEQ09RF5GMWHPJZQ
+description: ''
+expected: なこと
+patterns:
+  - な事
+allows: []
+specs:
+  - from: そういうような事
+    to: そういうようなこと
+tags: []
